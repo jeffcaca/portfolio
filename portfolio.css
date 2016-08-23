@@ -1,0 +1,92 @@
+/* lightest to darkest
+	#ffffff white
+	#f0f5f9
+	#cd96de
+	#52616a
+	#1e2022
+	*/
+
+.header{
+	text-align: right;
+
+
+}
+.polygon {
+
+-webkit-clip-path: polygon(297px 58px,706px 0px,297px 0px,0px 0px);
+background-color: #52616a;
+height: 125px;
+display: inline-block;
+}
+
+.main{
+	background: url('coding2.jpg');
+	background-size:cover;
+	height: 800px;
+	text-align: center;
+
+
+}
+.jeff{
+	text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.75);
+	color: white;
+	font-size: 50px;
+	margin-bottom: 30px;
+	display: block;
+	margin-top: 300px;
+}
+
+
+}
+
+.links{
+	display: inline-block;
+	vertical-align: top;
+	margin: 50px 0px 50px 0px;
+
+}
+
+	.links a {
+		padding: 20px;
+		border-radius: 25px;
+		border: transparent 1px solid;
+		text-decoration: none;
+		font-weight: bold;
+		text-transform: uppercase;
+
+
+	}
+
+		.links a:hover {
+			background-color: #52616a;
+			text-decoration: ;
+		}
+.logo{
+	display:inline-block;
+	vertical-align: top;
+}
+
+.footer{
+	text-align: center;
+	padding: 20px;
+}
+.briefbio{
+	display: inline-block;
+	min-height: 80px;
+	width: 200px;
+	text-align: left;
+	vertical-align: top;
+	margin-right: 100px;
+}
+
+.learnmore{
+	display: inline-block;
+	min-height: 80px;
+	width: 200px;
+	text-align: left;
+	vertical-align: top;
+}
+.divider{
+	border: solid 1px black;
+	margin: 10px;
+}
